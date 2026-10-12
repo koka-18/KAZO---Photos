@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="t d">
+  <title id="t">Emplacement pour une photographie</title>
+  <desc id="d">Illustration temporaire à remplacer par une photographie KAZO.</desc>
+  <rect width="800" height="1000" fill="#f2f5f0"/>
+  <circle cx="400" cy="395" r="118" fill="none" stroke="#bac7b9" stroke-width="4"/>
+  <rect x="330" y="325" width="140" height="118" rx="10" fill="none" stroke="#7f9a80" stroke-width="5"/>
+  <circle cx="400" cy="384" r="30" fill="none" stroke="#7f9a80" stroke-width="5"/>
+  <path d="M354 325 l20 -26 h52 l20 26" fill="none" stroke="#7f9a80" stroke-width="5" stroke-linejoin="round"/>
+  <text x="400" y="572" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#506b55" letter-spacing="4">VOTRE PHOTO</text>
+  <text x="400" y="614" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#8a9888">Remplacez cette image</text>
+</svg>
